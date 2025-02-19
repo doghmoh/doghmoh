@@ -1,28 +1,28 @@
-# Hi, I'm doghmoh.
+👋 Hey, I'm Doghmoh!
+I'm a Software Engineer & Full Stack Developer specializing in web and mobile development. I love building scalable, high-performance applications that deliver seamless user experiences. From frontend interfaces to backend architectures, I thrive on crafting well-optimized solutions.
 
-I'm a Full Stack Developer with a passion for creating responsive and user-friendly web applications. My skill set includes HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React.js, React Native, Node.js, and building Web APIs.
+🚀 Tech Stack
+Frontend
+Web: HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React.js
+Mobile: React Native
+Backend
+Node.js, Express.js
+REST APIs, Web APIs
+Other Skills
+Database Management
+Performance Optimization
+UI/UX Best Practices
+💡 What Drives Me
+Building fast, responsive, and user-friendly applications
+Solving complex problems with clean and efficient code
+Continuously learning and exploring new technologies
+Collaborating on innovative projects
+🌍 Let's Connect!
+I’m always open to new opportunities and collaborations. Feel free to reach out!
 
-# My Skills
+📌 Find me here:
 
-    Frontend Development
-    Backend Development
-    Creating Responsive Web Pages
-    Hardworking and Committed
-    Thriving Under Pressure
-    Effective Communication
-    Enjoying Every Moment of My Work
-
-# What I Do
-
-I enjoy working on a wide range of projects, from building the frontend of a beautiful website to setting up the backend infrastructure to make it all work seamlessly. My goal is to create high-quality, user-friendly web applications that exceed your expectations.
-
-# Connect with Me
-
-Let's collaborate and build something amazing together! You can find me on:
-
-- [GitHub](https://github.com/doghmoh)
-- [LinkedIn](https://www.linkedin.com/in/mohamed-deghmane-712a09230/)
-- [Email](doghmoh@gmail.com)
-
-Feel free to reach out to me if you have a project in mind or just want to connect. I'd love to hear from you!
-
+💻 GitHub
+💼 LinkedIn
+📧 Email
+Let’s build something great together! 🚀
